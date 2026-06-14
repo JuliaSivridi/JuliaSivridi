@@ -29,7 +29,7 @@ Currently studying Business Information Technology at South-Eastern Finland Univ
 <img src="https://cdn.simpleicons.org/typescript/e07e38" height="36" title="TypeScript"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/kotlin/e07e38" height="36" title="Kotlin"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/html5/e07e38" height="36" title="HTML5"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css3/e07e38" height="36" title="CSS3"/>
+<img src="https://cdn.simpleicons.org/css/e07e38" height="36" title="CSS3"/>
 </p>
 
 **Frameworks & Libraries**
@@ -58,7 +58,7 @@ Currently studying Business Information Technology at South-Eastern Finland Univ
 ## Connect
 
 <a href="https://www.linkedin.com/in/stler/">
-  <img src="https://cdn.simpleicons.org/linkedin/e07e38" height="28" alt="LinkedIn"/>
+  <img src="icons/linkedin.svg" height="28" alt="LinkedIn"/>
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/JuliaSivridi">
   <img src="https://cdn.simpleicons.org/github/e07e38" height="28" alt="GitHub"/>
